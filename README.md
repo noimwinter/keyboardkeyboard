@@ -15,8 +15,6 @@ Open index.html in a modern browser, click Play, and press any key. All audio an
 5. Under Build and deployment, choose Deploy from a branch, then main and / (root), and Save.
 6. Wait for GitHub to finish publishing. The Pages settings will show the website link.
 
-For a repository named any-key-piano owned by noimwinter, the usual URL is https://noimwinter.github.io/any-key-piano/ once Pages deployment succeeds.
-
 No build command or dependency installation is needed. Keep all six app files together, including samples.js and songs.js. CREDITS.md documents the music sources, sampled-piano attribution, and CC BY 3.0 sample license.
 
 ## Pieces
