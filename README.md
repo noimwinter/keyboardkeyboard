@@ -1,4 +1,4 @@
-# Any Key Piano
+# Keyboard Keyboard
 
 A browser piano with sampled grand piano audio and five Liszt pieces. Every fresh keyboard press plays the next note or simultaneous chord. Holding a key does not advance repeatedly. Different start times, including trills, require separate presses.
 
